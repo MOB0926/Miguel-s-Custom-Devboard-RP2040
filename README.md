@@ -46,3 +46,6 @@ I actually made an error originaly where my board was set up as "Standard PCBA" 
            
 <img width="1403" height="918" alt="image" src="https://github.com/user-attachments/assets/baaa2aea-f51f-4384-aa1b-808658904a4b" />
           
+# V1 vs V2
+          
+Honestly they are not too different but V2 was a complete restart for the pcb routing and component placement as V1 was full of errors that were easier to re-do than fix.
