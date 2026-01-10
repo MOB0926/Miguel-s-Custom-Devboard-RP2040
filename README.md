@@ -49,3 +49,18 @@ I actually made an error originaly where my board was set up as "Standard PCBA" 
 # V1 vs V2
           
 Honestly they are not too different but V2 was a complete restart for the pcb routing and component placement as V1 was full of errors that were easier to re-do than fix.
+    
+# THE END
+     
+So yeah thats it really
+    
+I spent about 19-20 hours on this. I learnt A LOT about Schematic/PCB design on KICAD specificaly. I also learnt how to get a project to manufacturing (Which I cant wait to get my first Devboard design to play with)
+     
+I do not plan to return to this project, I will probably at some point in the near future make another board but with a more specific use and maybe a diferent MCU so I can get more experience
+
+# Thanks
+
+- Myself (For all the time I put into this)
+- [Kai Pereira](https://kaipereira.com/) (For the Guide)
+- [HackClub](https://hackclub.com/) / [Blueprint](https://blueprint.hackclub.com/home) (For the opportunity to do a project like this)
+- You (For reading this)
