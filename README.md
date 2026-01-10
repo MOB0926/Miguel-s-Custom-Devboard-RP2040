@@ -49,6 +49,12 @@ I actually made an error originaly where my board was set up as "Standard PCBA" 
 # V1 vs V2
           
 Honestly they are not too different but V2 was a complete restart for the pcb routing and component placement as V1 was full of errors that were easier to re-do than fix.
+       
+# BOM
+    
+- PCB ~ $40 [JLCPCB](https://jlcpcb.com/) (For 5)
+- I/O Pins ~ $4 + Shipping [AliExpress](https://www.aliexpress.us/item/3256807199266132.html?spm=a2g0o.productlist.main.4.b2eerDecrDecFT&aem_p4p_detail=20260109185732753301892571030012625217&algo_pvid=d6666beb-37c8-4955-94b1-210e04b2dabe&algo_exp_id=d6666beb-37c8-4955-94b1-210e04b2dabe-3&pdp_ext_f=%7B%22order%22%3A%22168%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%213.20%213.04%21%21%2122.21%2121.10%21%402101e07217680138522445737eae12%2112000040529096976%21sea%21US%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ac04e790%3Bm03_new_user%3A-29895&curPageLogUid=dwaYiwHq2kqp&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005007385580884%7C_p_origin_prod%3A&search_p4p_id=20260109185732753301892571030012625217_1) (For 10 1x40 Breakeable 2.54mm Male Pins)
+- LED (SK6812mini-e)(3mA) ~ $3 + Shipping [AliExpress](https://www.aliexpress.us/item/3256806781745425.html?spm=a2g0o.productlist.main.2.30f32c52NpVRiA&algo_pvid=19ea0063-2bd2-4e94-b170-fb60ab4e0a6e&algo_exp_id=19ea0063-2bd2-4e94-b170-fb60ab4e0a6e-1&pdp_ext_f=%7B%22order%22%3A%226%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%212.23%212.23%21%21%2115.48%2115.48%21%40210328db17680140383654328ef58e%2112000038888086591%21sea%21US%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ac04e790%3Bm03_new_user%3A-29895&curPageLogUid=fUqIvQ2YwTf7&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005006968060177%7C_p_origin_prod%3A)
     
 # THE END
      
