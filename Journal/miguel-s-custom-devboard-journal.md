@@ -127,3 +127,12 @@ Changing it cause a slight problem where it would deny me the ability to use eco
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzg0NDEsInB1ciI6ImJsb2JfaWQifX0=--7654bc0723c9828476d9de42d629eb55c0a46a9f/image.png)
   
 
+## 1/9/2026 - Created Repo  
+
+_Time spent: 1.0h_  
+
+I uploaded my design files and jurnal to my repo, and created a readme where I added information and pictures of my work and journey through this project.
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk0NjQsInB1ciI6ImJsb2JfaWQifX0=--d96cc2b3e43f6894214d5a5e193f41921f7330f0/image.png)
+  
+
