@@ -9,7 +9,7 @@ The designs and components are directly from the guide but the LED I added once 
     
 Components:
 - RP 2040
-- LED (SK6812-mini-e)
+- LED (SK6812-mini-e)   This is not in KICAD lib, I had to use [Master Lib](https://github.com/ebastler/marbastlib)
 - USB-C-2.0
 - Voltage regulator (MCP1700T-3302E/TT)
 - Crystal Ocilater (12mhz)
