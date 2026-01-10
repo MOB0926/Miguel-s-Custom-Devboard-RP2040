@@ -4,6 +4,11 @@
 	(generator_version "9.0")
 	(uuid "fbec3c7d-9246-4cbd-b80d-b5517be68db2")
 	(paper "A4")
+	(title_block
+		(title "Miguel's Custom Devboard")
+		(date "1/9/26")
+		(rev "V2")
+	)
 	(lib_symbols
 		(symbol "Connector:USB_C_Receptacle_USB2.0_14P"
 			(pin_names
