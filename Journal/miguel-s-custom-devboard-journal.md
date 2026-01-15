@@ -127,12 +127,40 @@ Changing it cause a slight problem where it would deny me the ability to use eco
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzg0NDEsInB1ciI6ImJsb2JfaWQifX0=--7654bc0723c9828476d9de42d629eb55c0a46a9f/image.png)
   
 
-## 1/9/2026 - Created Repo  
+## 1/9/2026 9 PM - Created Repo  
 
 _Time spent: 1.0h_  
 
 I uploaded my design files and jurnal to my repo, and created a readme where I added information and pictures of my work and journey through this project.
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk0NjQsInB1ciI6ImJsb2JfaWQifX0=--d96cc2b3e43f6894214d5a5e193f41921f7330f0/image.png)
+  
+
+## 1/9/2026 10 PM - Finalized Repo + Product Shipped  
+
+_Time spent: 1.0h_  
+
+I checked the guidelines and am pretty sure my project is ready for submission. I completed my repo and finished my BOM
+
+I have now sent my project in for review (I hope I didn't forget anything dumb)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk1NTIsInB1ciI6ImJsb2JfaWQifX0=--13d539f03e076c35f7e77c413e4f2f3160dd7c65/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk1NTMsInB1ciI6ImJsb2JfaWQifX0=--9b36feecf02b8a7c3baff9c94223ee1501397299/image.png)
+
+  
+
+## 1/14/2026 - Updated BOM  
+
+_Time spent: 0.1h_  
+
+Hehehe I forgot to change to only 2 pcba, I never did because JLCPCB was not allowing me to select it in the cart but after some research I just had to go back to edit the pcb settings so I got that resolved
+
+Also my BOM was a little inaccurate so I updated that to reflect the changes
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODI4NDgsInB1ciI6ImJsb2JfaWQifX0=--3e8bdfaeb5ed8696bc567454a145c43deeb02818/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODI4NTEsInB1ciI6ImJsb2JfaWQifX0=--9a9a838a67228c59d034936869510fabe501adde/image.png)
+
   
 
