@@ -52,10 +52,10 @@ Honestly they are not too different but V2 was a complete restart for the pcb ro
        
 # BOM
     
-- PCB ~ $50.59 [JLCPCB](https://jlcpcb.com/) (For 5 pcbs / 2 pcba)
+- PCB ~ $39.36 [JLCPCB](https://jlcpcb.com/) (For 5 pcbs / 2 pcba)
 - I/O Pins ~ $1.26 + Shipping [AliExpress](https://www.aliexpress.us/item/3256805070463808.html?spm=a2g0o.cart.0.0.7e6b38daz93qME&mp=1&pdp_npi=6%40dis%21USD%21USD%201.26%21USD%201.26%21%21USD%201.26%21%21%21%4021032f3717684542606396685e305a%2112000032382468616%21ct%21US%216785194544%21%211%210%21&gatewayAdapt=glo2usa) (For 10 1x40 Breakeable 2.54mm Male Pins)
 - LED (SK6812mini-e)(3mA) ~ $3.51 + Shipping [AliExpress]([https://www.aliexpress.us/item/3256806781745425.html?spm=a2g0o.productlist.main.2.30f32c52NpVRiA&algo_pvid=19ea0063-2bd2-4e94-b170-fb60ab4e0a6e&algo_exp_id=19ea0063-2bd2-4e94-b170-fb60ab4e0a6e-1&pdp_ext_f=%7B%22order%22%3A%226%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%212.23%212.23%21%21%2115.48%2115.48%21%40210328db17680140383654328ef58e%2112000038888086591%21sea%21US%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ac04e790%3Bm03_new_user%3A-29895&curPageLogUid=fUqIvQ2YwTf7&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005006968060177%7C_p_origin_prod%3A](https://www.aliexpress.us/item/3256807677321116.html?spm=a2g0o.cart.0.0.4a2b38daTsU0eW&mp=1&pdp_npi=6%40dis%21USD%21USD%203.51%21USD%203.51%21%21USD%203.51%21%21%21%40210318a717684412643941390e3c3f%2112000042594617264%21ct%21US%216785194544%21%211%210%21&gatewayAdapt=glo2usa)) (For 100) (Only need one but this is cheaper because of choice shipping than getting a 10pc)
-- Total ~ $58
+- Total ~ $47
     
 # THE END
      
